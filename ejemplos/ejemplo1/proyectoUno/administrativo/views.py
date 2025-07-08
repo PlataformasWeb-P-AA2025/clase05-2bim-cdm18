@@ -71,7 +71,7 @@ def obtener_estudiante(request, id):
     return render(request, 'obtener_estudiante.html', informacion_template)
 
 
-# @login_required(login_url='/entrando/login/')
+# @login_required(login_url='/entrando/login/') no se deberia usar ya que se define en el settings.py sus URls
 @login_required
 @permission_required('administrativo.add_estudiante', )
 # @permission_required('administrativo.add_estudiante', login_url="/entrando/login/")
