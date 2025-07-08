@@ -27,3 +27,13 @@
 2.1 settings.py
 
 2.2 templates
+
+
+# Capturas de pantalla
+<img width="1920" alt="Screenshot 2025-07-08 at 9 49 27 am" src="https://github.com/user-attachments/assets/a31b33a0-aa4b-433d-9c0e-34158ab0b5cf" />
+
+
+<img width="1920" alt="Screenshot 2025-07-08 at 9 49 46 am" src="https://github.com/user-attachments/assets/a4b593cf-2871-41da-aec5-2a31e6127595" /> 
+
+
+<img width="1920" alt="Screenshot 2025-07-08 at 9 50 07 am" src="https://github.com/user-attachments/assets/ebed66b0-d09f-45c8-be1d-43e8796c227a" />
